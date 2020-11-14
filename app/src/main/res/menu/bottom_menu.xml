@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/igra"
+        android:title="Sudoku"
+        android:icon="@drawable/ic_grid_on_black_24dp"
+        />
+
+    <item
+        android:id="@+id/score"
+        android:title="Rekord"
+        android:icon="@drawable/ic_timer_black_24dp"
+        />
+</menu>
